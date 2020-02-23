@@ -21,3 +21,24 @@
     margin-top: 10px;
     cursor: pointer;
 }
+.cat1{
+    background: linear-gradient(100deg, rgb(235, 164, 34), rgb(189, 189, 28));
+    border-radius: 15px;
+    padding: 10px 30px;
+    color: white;
+}
+.cat2{
+    background: linear-gradient(100deg,rgb(236, 61, 163), rgb(199, 3, 156) );
+    border-radius: 15px;
+    padding: 10px 30px;
+    color: white;
+}
+.cat3{
+    background: linear-gradient(100deg,rgb(28, 146, 243),rgb(9, 68, 228));
+    border-radius: 15px;
+    padding: 10px 30px;
+    color: white;
+}
+.categories img{
+    width: 120px;
+}
